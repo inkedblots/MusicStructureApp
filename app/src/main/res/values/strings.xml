@@ -1,0 +1,23 @@
+<resources>
+    <!-- Title for the application. -->
+    <string name="app_name">Music App</string>
+
+    <!-- Artist name -->
+    <string name="artist_queen">Queen</string>
+
+    <string name="artist_michaelJackson">Michael Jackson</string>
+
+    <string name="artist_davidBowie">David Bowie</string>
+
+    <string name="artist_gnr">Guns N Roses</string>
+
+    <string name="artist_madonna">Madonna</string>
+
+    <string name="albumImage">Album Image</string>
+
+    <string name="play_arrow_icon">play arrow</string>
+    <!-- Misc DELETE BEFORE REFACTOR-->
+    <!--<string name="launcher_icon">launcher icon</string>-->
+
+
+</resources>

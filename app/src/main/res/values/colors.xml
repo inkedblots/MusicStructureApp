@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Primary color of the app (shown in the toolbar) -->
+    <color name="primary_color">#cfbcb0</color>
+
+    <!-- Color of the shown in the status bar) -->
+    <!--<color name="my_status_bar">#9c9495</color>-->
+
+    <!-- Background color for list_item and activity_main-->
+    <color name="my_background_light">#e6dbdd</color>
+
+    <!-- Background color for Queen -->
+    <color name="artist_queen">#fefbfb</color>
+
+    <!-- Background color for Michael Jackson -->
+    <color name="artist_michaelJackson">#fefbfb</color>
+
+    <!-- Background color for David Bowie -->
+    <color name="artist_davidBowie">#fefbfb</color>
+
+    <!-- Background color for Guns N Roses -->
+    <color name="artist_gnr">#fefbfb</color>
+
+    <!-- Background color for Madonna -->
+    <color name="artist_madonna">#fefbfb</color>
+
+    <!-- Toolbar text color -->
+    <color name="primary_text_default_material_dark" tools:override="true">#040303</color>
+    <color name="my_accent_color">#ff4081</color>
+
+
+    <!-- DELETE ITEMS BELOW BEFORE REFACTOR!!-->
+
+    <!--<color name="primary_material_light" tools:override="true">#afafbb</color>-->
+    <!--<color name="background_material_light" tools:override="true">#80808b</color>-->
+
+</resources>
