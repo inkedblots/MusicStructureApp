@@ -23,7 +23,6 @@
             android:contentDescription="@string/albumImage" />
 
         <ImageView
-            android:id="@+id/play"
             android:layout_width="24dp"
             android:layout_height="24dp"
             android:layout_gravity="end|center_vertical"
