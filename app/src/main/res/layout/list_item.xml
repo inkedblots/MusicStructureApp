@@ -48,7 +48,7 @@
                 android:layout_weight="1"
                 android:gravity="start|center"
                 android:paddingTop="6dp"
-                android:textAppearance="?android:textAppearanceMedium" />
+                android:textSize="16sp" />
 
             <TextView
                 android:id="@+id/album_text_view"
